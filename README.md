@@ -11,6 +11,8 @@
 
 <img src="http://mazandi.herokuapp.com/api?handle=bgy3362&theme=warm"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baerini)](https://github.com/baerini/github-readme-stats)
+
 <!--
 **baerini/baerini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
